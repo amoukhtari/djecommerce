@@ -5,8 +5,9 @@ This is an educational project, it's far from being production ready.
 ### @TODOS
 
 - [x] create new project
-  - [ ] environment variables
-  - [ ] granularize settings 
+  - [x] environment variables
+  - [x] setup style guide
+  - ~~[ ] granularize settings~~ *save for later*
 
 - [ ] start a catalogue app
   - [ ] build catalogue models
@@ -24,6 +25,7 @@ This is an educational project, it's far from being production ready.
   - [ ] tidy up code
 - [ ] refactor UI
 - [ ] add tests
+- [ ] docs too
 - [ ] dockerize project
 - [ ] deploy to heroku
-- [ ] get a working version live
+- [ ] get a working version live [here](https://thedjecommerce.herokuapp.com/)
