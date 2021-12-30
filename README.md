@@ -9,10 +9,10 @@ This is an educational project, it's far from being production ready.
   - [x] setup style guide
   - ~~[ ] granularize settings~~ *save for later*
 
-- [ ] start a catalogue app
-  - [ ] build catalogue models
-  - [ ] configure admin page
-  - [ ] set up media and static file 
+- [x] start a catalogue app
+  - [x] build catalogue models
+  - [x] configure admin page
+  - [x] set up media and static file 
   - [ ] add catalogue URLS 
   - [ ] build the catalogue's views
   - [ ] add templates for products/category/product
