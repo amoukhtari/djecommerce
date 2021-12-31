@@ -12,7 +12,8 @@ This is an educational project, it's far from being production ready.
 - [x] start a catalogue app
   - [x] build catalogue models
   - [x] configure admin page
-  - [x] set up media and static file 
+  - [x] set up media and static file
+  - [x] install coverage & write tests for models
   - [ ] add catalogue URLS 
   - [ ] build the catalogue's views
   - [ ] add templates for products/category/product
@@ -29,3 +30,4 @@ This is an educational project, it's far from being production ready.
 - [ ] dockerize project
 - [ ] deploy to heroku
 - [ ] get a working version live [here](https://thedjecommerce.herokuapp.com/)
+
