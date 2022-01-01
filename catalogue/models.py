@@ -11,6 +11,9 @@ class Category(models.Model):
         # so django doesn't add s resulting in incorrect spelling
         verbose_name_plural = 'categories'
 
+    def get_absolute_url(self):
+        return reverse('catalogue:category_list', args=[self.slug])
+
     def __str__(self) -> str:
         return self.name
 
