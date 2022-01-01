@@ -14,9 +14,9 @@ This is an educational project, it's far from being production ready.
   - [x] configure admin page
   - [x] set up media and static file
   - [x] install coverage & write tests for models
-  - [ ] add catalogue URLS 
-  - [ ] build the catalogue's views
-  - [ ] add templates for products/category/product
+  - [x] add catalogue URLS 
+  - [x] build the catalogue's views
+  - [x] add templates for products/category/product
   - [ ] tidy up code
 - [ ] start cart app:
   - [ ] add URLS
