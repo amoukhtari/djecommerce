@@ -3,14 +3,8 @@ from django.shortcuts import get_object_or_404, render
 from .models import Category, Product
 
 
-def categories(request):
-    return {
-        'categories': Category.objects.all()
-    }
-
-
 def products_all(request):
-    products = Product.objects.all()
+    products = Product.products.all()
     return render(request, 'catalogue/home.html', {'products': products})
 
 
