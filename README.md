@@ -17,13 +17,13 @@ This is an educational project, it's far from being production ready.
   - [x] add catalogue URLS 
   - [x] build the catalogue's views
   - [x] add templates for products/category/product
-  - [ ] tidy up code
-- [ ] start cart app:
-  - [ ] add URLS
-  - [ ] build the cart's views
-  - [ ] add cart template
-  - [ ] add crud operations to cart
-  - [ ] tidy up code
+  - [x] tidy up code
+- [x] start cart app:
+  - [x] add URLS
+  - [x] build the cart's views
+  - [x] add cart template
+  - [x] add crud operations to cart
+  - [x] tidy up code
 - [ ] refactor UI
 - [ ] add tests
 - [ ] docs too
